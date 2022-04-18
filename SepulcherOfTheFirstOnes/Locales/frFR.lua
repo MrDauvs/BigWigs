@@ -1,10 +1,10 @@
-local L = BigWigs:NewBossLocale("Vigilant Guardian", "frFR")
+local L = BigWigs:NewBossLocale("Gardien Vigilant", "frFR")
 if not L then return end
 if L then
 	--L.sentry = "Tank Add"
 end
 
-L = BigWigs:NewBossLocale("Skolex, the Insatiable Ravener", "frFR")
+L = BigWigs:NewBossLocale("Skolex L'Insatiable Vorace", "frFR")
 if L then
 	L.tank_combo_desc = "Timer pour les cast de Mâche-faille/Pourfendre à 100 d'energie."
 end
